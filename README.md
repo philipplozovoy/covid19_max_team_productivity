@@ -1,2 +1,2 @@
 # covid19_max_team_productivity
-Naive answer for question - how to maximize team productivity in COVID19 reality
+My naive answer to the question of how to optimize the team's activities in conditions of COVID19 and the need to come to the office
